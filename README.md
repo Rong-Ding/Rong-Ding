@@ -2,9 +2,10 @@
 I'm Rong Ding, a researcher and model developer with a keen interest in how language and meaning are processed by humans and by biologically inspired systems/models (e.g., AI). I build computational models that bridge natural language, human data (behavioural/neural), and structured semantics.
 
 ### 🔍 Currently exploring
-- 
+- How symbolic representations (ontologies, knowledge graphs) can be combined with semantic embeddings and neural networks
+- How AI models augment reconstruction and symbolic representation of non-linear system dynamics (e.g., in the brain)
 
-### 🛠️ Featured Projects
+### 🛠️ Featured projects
 - [ModellingHumanReading](https://github.com/Rong-Ding/ModellingHumanReading): Comparing Word2Vec models in handling word semantics, and SRN vs LSTM models in syntactic ambiguity (garden-path sentences)
 - [DecodingUnderPartialObservability](https://github.com/Rong-Ding/DecodingUnderPartialObservability): Building Autoencoders that effectively reconstruct latent states and system dynamics under varying degrees of (partial) observability
 - [Coupled_STiMCON](https://github.com/Rong-Ding/Coupled_STiMCON): A neural (oscillatory) model that combines internal language knowledge (predictability) with external inputs in speech processing
