@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Rong Ding
 
 ### 🎓 Education
+- PhD Language and Computation in Neural Systems @ [Max Planck Institute for Psycholinguistics](https://mpi.nl) (2020-2025)
+- MSc Language Sciences (with specialisation in neuroscience and communication) @ [University College London](https://ucl.ac.uk) (2018-2019)
 - BSc Psychology & BA Indonesian language and literature @ [Peking University](https://pku.edu.cn) (2014-2018)
 
 ### 📫 Contact
