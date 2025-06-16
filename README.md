@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Rong Ding
 
 ### 🎓 Education
-- BSc Psychology & BA Indonesian language and literature @ [Peking University](pku.edu.cn) (2014-2018)
+- BSc Psychology & BA Indonesian language and literature @ [Peking University](https://pku.edu.cn) (2014-2018)
 
 ### 📫 Contact
 - E-mail: sariahding1007@gmail.com
