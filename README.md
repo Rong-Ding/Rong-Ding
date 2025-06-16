@@ -1,5 +1,8 @@
 ## 👋 Hi there, I'm Rong Ding
 
+### 📫 Contact
+- E-mail: sariahding1007@gmail.com
+
 <!--
 **Rong-Ding/Rong-Ding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
