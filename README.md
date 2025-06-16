@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hi there!
 I'm Rong Ding, a researcher and model developer with a keen interest in how language and meaning are processed by humans and by biologically inspired systems/models (e.g., AI). I build computational models that bridge natural language, human data (behavioural/neural), and structured semantics.
 
 ### 🔍 Currently exploring
