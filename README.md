@@ -1,16 +1,20 @@
 ## 👋 Hi there
 I'm Rong Ding, a researcher and model developer with a keen interest in how language and meaning are processed by humans and by biologically inspired systems/models (e.g., AI). I build computational models that bridge natural language, human data (behavioural/neural), and structured semantics.
 
-### 
+### 🔍 Currently exploring
+- 
 
 ### 🛠️ Featured Projects
+- [ModellingHumanReading](https://github.com/Rong-Ding/ModellingHumanReading): Comparing Word2Vec models in handling word semantics, and SRN vs LSTM models in syntactic ambiguity (garden-path sentences)
+- [DecodingUnderPartialObservability](https://github.com/Rong-Ding/DecodingUnderPartialObservability): Building Autoencoders that effectively reconstruct latent states and system dynamics under varying degrees of (partial) observability
+- [Coupled_STiMCON](https://github.com/Rong-Ding/Coupled_STiMCON): A neural (oscillatory) model that combines internal language knowledge (predictability) with external inputs in speech processing
 
 ### 🎓 Education
-- PhD Language and Computation in Neural Systems @ [Max Planck Institute for Psycholinguistics](https://mpi.nl) (2020-2025)
+- PhD Language and Computation in Neural Systems @ [Max Planck Institute for Psycholinguistics](https://mpi.nl) & [Donders Institute, Radboud University](https://www.ru.nl/en/donders-institute) (2020-2025)
 - MSc Language Sciences (with specialisation in neuroscience and communication) @ [University College London](https://ucl.ac.uk) (2018-2019)
 - BSc Psychology & BA Indonesian Language and Literature @ [Peking University](https://pku.edu.cn) (2014-2018)
 
-### 📫 Contact
+### 📫 Contact (Let’s get semantic ;-))
 - E-mail: sariahding1007@gmail.com
 
 <!--
