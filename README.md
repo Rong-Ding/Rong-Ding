@@ -8,7 +8,7 @@ I believe in interpretable AI, interdisciplinary thinking/knowledge integration,
 - How AI models augment reconstruction and symbolic representation of non-linear system dynamics (e.g., in the brain)
 
 ### 🛠️ Featured projects
-- [ModellingHumanReading](https://github.com/Rong-Ding/ModellingHumanReading): Comparing Word2Vec models in handling word semantics, and SRN vs LSTM models in syntactic ambiguity (garden-path sentences)
+- [ModellingHumanReading](https://github.com/Rong-Ding/ModellingHumanReading): Comparing Word2Vec models in handling word semantics, and SRN vs LSTM models in characterising the statistical structure of language and syntactic ambiguity (garden-path sentences)
 - [DecodingUnderPartialObservability](https://github.com/Rong-Ding/DecodingUnderPartialObservability): Building Autoencoders that effectively reconstruct latent states and system dynamics under varying degrees of (partial) observability
 - [Coupled_STiMCON](https://github.com/Rong-Ding/Coupled_STiMCON): A neural (oscillatory) model that combines internal language knowledge (predictability) with external inputs in speech processing
 
