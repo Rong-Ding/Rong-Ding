@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 I'm Rong Ding, a researcher and model developer with a keen interest in how language and meaning are processed by humans and by biologically inspired systems/models (e.g., AI). I build computational models that bridge natural language, human data (behavioural/neural), and structured semantics.
 
-I believe in interpretable AI, interdisciplinary thinking/knowledge integration, and building tools that help people reason better. When not working, I enjoy reading about complex systems—the kind that tries to explain neural networks, language, and also black holes and traffic jams. I also search for the meaning of _meaning_ during ballet dancing. 
+I believe in interpretable AI, interdisciplinary thinking/knowledge integration, and building tools that help people reason better. When not working, I enjoy reading about complex systems—the kind that tries to explain neural networks, language, and also black holes and traffic jams. I also search for the meaning of _meaning_ during hiking and ballet dancing. 
 
 ### 🔍 Currently exploring
 - How symbolic representations (ontologies, knowledge graphs) can be combined with semantic embeddings and neural networks
