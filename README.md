@@ -9,7 +9,7 @@ I believe in interpretable AI, interdisciplinary thinking/knowledge integration,
 
 ### 🛠️ Featured projects
 - [ModellingHumanReading](https://github.com/Rong-Ding/ModellingHumanReading): Comparing Word2Vec models in handling word semantics, and SRN vs LSTM models in characterising the statistical structure of language and syntactic ambiguity (garden-path sentences), providing significant insights into human neuro-cognitive behaviours and helping improve interactive language learning systems
-- [DecodingUnderPartialObservability](https://github.com/Rong-Ding/DecodingUnderPartialObservability): Building Autoencoders that effectively reconstruct latent states and system dynamics under varying degrees of (partial) observability
+- [DecodingUnderPartialObservability](https://github.com/Rong-Ding/DecodingUnderPartialObservability): Building Autoencoders that effectively reconstruct latent states and system dynamics under varying degrees of (partial) observability, offering valuable insights for neural signal analysis and clinical interpretation, and also improving the design of brain–computer interfaces (BCIs) by enhancing the temporal decoding of neural activity
 - [Coupled_STiMCON](https://github.com/Rong-Ding/Coupled_STiMCON): A neural (oscillatory) model that combines internal language knowledge (predictability) with external inputs in speech processing
 
 ### 🎓 Education
